@@ -1,0 +1,33 @@
+body,html{
+	margin:0;
+	padding:0;
+	font-family: Consolas, monaco, monospace;
+}
+#wrap{
+	margin:0px;
+	padding:0px;
+}
+
+#head{
+	width:100%;
+	height:auto;
+	background:#BDCF8A;
+	padding-bottom:1%;
+	padding-top:1%;
+	font-family: Monaco, Consolas, "Lucida Console", monospace;
+}
+
+#meat{
+
+}
+#foot{
+	bottom:0;
+	position:fixed;
+}
+h1,p,#weekOutput{
+	margin-left:10%;
+	padding-top:10px;
+}
+a{
+	color:black;
+}
